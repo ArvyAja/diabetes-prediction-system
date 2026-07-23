@@ -91,7 +91,7 @@ streamlit run app.py
 
 The dataset used in this project contains health-related information such as age, BMI, blood glucose, HbA1c, and medical history.
 
-(https://www.kaggle.com/datasets/therealsaquib/diabates-dataset/data)*
+https://www.kaggle.com/datasets/therealsaquib/diabates-dataset/data
 
 ---
 
