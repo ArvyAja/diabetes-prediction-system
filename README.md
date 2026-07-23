@@ -54,6 +54,9 @@ diabetes-prediction-system/
 ├── README.md
 └── .gitignore
 ```
+## 📸 Application Preview
+
+![Application](screenshots/app-preview.png)
 
 ---
 
